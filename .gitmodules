@@ -1,0 +1,4 @@
+[submodule "experimental/clashapi/web_dashboard"]
+	path = experimental/clashapi/web_dashboard
+	url = https://github.com/MetaCubeX/Yacd-meta
+	branch = gh-pages
